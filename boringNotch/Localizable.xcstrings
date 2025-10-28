@@ -8230,6 +8230,9 @@
         }
       }
     },
+    "Clipboard History" : {
+
+    },
     "Close" : {
       "localizations" : {
         "af" : {
@@ -21005,6 +21008,9 @@
           }
         }
       }
+    },
+    "No clipboard history" : {
+
     },
     "No custom animation available" : {
       "localizations" : {
